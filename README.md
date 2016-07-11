@@ -1,0 +1,2 @@
+# AdvertisementAlertOnMobile
+Advertisement alert on mobile is aimed at web and mobile application, where advertisers can register themselves to advertise their products and offers. Web app also provided facility to download and install android application for getting alert on mobile about advertisements. Used J2EE, JSP, SERVLET, HTML, ORACLE 11g, ANDROID, SQLite, and Web Services to develop this application.
